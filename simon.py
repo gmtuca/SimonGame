@@ -5,6 +5,8 @@
 #-3 buttons (and 3x 1000Ω resistors - depending on current and voltage)
 #-3 LEDs (and 3x 165Ω resistors - depending on current and voltage)
 #-a few jumper wires -optional: a breadboard
+#
+#Go to https://www.youtube.com/watch?v=J_Jtt4a6gFs for demo
 
 import RPi.GPIO as gpio
 import time
